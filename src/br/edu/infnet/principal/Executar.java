@@ -2,9 +2,9 @@ package br.edu.infnet.principal;
 
 import java.util.Scanner;
 
-import Excecoes.NomeIncompletoException;
-import Excecoes.NumeroNoNomeException;
 import br.edu.infnet.auxiliar.Constantes;
+import br.edu.infnet.excecoes.NomeIncompletoException;
+import br.edu.infnet.excecoes.NumeroNoNomeException;
 import br.edu.infnet.pessoas.Aluno;
 import br.edu.infnet.pessoas.Pessoa;
 import br.edu.infnet.pessoas.Professor;

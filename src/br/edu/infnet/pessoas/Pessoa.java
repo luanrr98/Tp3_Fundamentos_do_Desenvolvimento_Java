@@ -1,7 +1,7 @@
 package br.edu.infnet.pessoas;
 
-import Excecoes.NomeIncompletoException;
-import Excecoes.NumeroNoNomeException;
+import br.edu.infnet.excecoes.NomeIncompletoException;
+import br.edu.infnet.excecoes.NumeroNoNomeException;
 
 public abstract class Pessoa {
 	protected String nome;
